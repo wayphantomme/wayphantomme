@@ -14,12 +14,9 @@
 
 ###
 
-## 🚀 About Me
+## About Me
 
-Hello! I'm Wayan, a tech enthusiast from Bali passionate about combining business and technology.  
-Currently, I'm diving into **Web Development** as part of my academic journey, and I'm laying the groundwork to become a future **AI Engineer**.
-
-This GitHub is where I document my progress, from HTML pages to neural networks—step by step.
+Hello! I'm Wayan, a tech enthusiast from Bali passionate about combining business and technology. Currently, I'm diving into **Web Development** as part of my academic journey, and I'm laying the groundwork to become a future **AI Engineer**. This GitHub is where I document my progress, from HTML pages to neural networks—step by step.
 
 ---
 
