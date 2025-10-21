@@ -27,7 +27,7 @@ This GitHub is where I document my progress, from HTML pages to neural networks�
 
 ### 🎨 Front-End Development
 - HTML, CSS, JavaScript
-- React & Next.js *(in progress)*
+- React & Next.js
 - Responsive, accessible UI/UX
 
 ### 🪙 Blockchain
