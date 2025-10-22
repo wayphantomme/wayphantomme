@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wayan Phantom Megaditha
 
-🎓 Undergraduate Student | 📍 ITB STIKOM Bali <br/>
+🎓 Digital Business and Computer Science | 📍 ITB STIKOM Bali <br/>
 💻 Aspiring AI Engineer | Currently learning Web Development  
 
 ---
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Hello! I'm Wayan, a tech enthusiast from Bali passionate about combining business and technology. Currently, I'm diving into **Web Development** as part of my academic journey, and I'm laying the groundwork to become a future **AI Engineer**. This GitHub is where I document my progress, from HTML pages to neural networks—step by step.
+I’m Wayan, a junior front-end developer passionate about crafting interactive and visually consistent web experiences. I enjoy working with React, Next.js, and Tailwind CSS to build responsive designs that feel smooth across devices. With a background in digital business and tech, I combine creativity and logic to deliver clean, maintainable code while continuously learning advanced patterns and design principles.
 
 ---
 
