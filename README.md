@@ -40,10 +40,10 @@ I’m Wayan, a junior front-end developer passionate about crafting interactive 
 ---
 
 ## 📌 What You’ll Find in This Repo
-- 🌱 Beginner-friendly projects
-- 📖 Learning logs and notes
-- ⚙️ Code experiments
-- 📈 Progress updates
+- 💻 Front-end projects with reusable components (Navbar, Footer, Card, Button, Toggle Menu, Slideshow)  
+- 📊 Dashboard interfaces with API integration, routing, and responsive mobile layouts  
+- 🧠 Code experiments, UI logic, and performance improvements in progress  
+- 🎯 Continuous learning on design systems and modern web frameworks
 
 ---
 
