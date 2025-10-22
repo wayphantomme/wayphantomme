@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wayan Phantom Megaditha
 
-🎓 Digital Business & Computer Science | 📍 ITB STIKOM Bali
+🎓 Digital Business & Computer Science | 📍 ITB STIKOM Bali <br/>
 💻 Front-End Developer exploring the path to AI Engineering
 
 ---
