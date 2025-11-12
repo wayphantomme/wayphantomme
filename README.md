@@ -46,14 +46,6 @@ I’m Wayan, a junior front-end developer passionate about crafting interactive 
 - 🎯 Continuous learning on design systems and modern web frameworks
 
 ---
-
-## 📫 Let's Connect!
-
-- 🌐 [Instagram](https://www.instagram.com/wayphantomme/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/wayphantomme/)
-- 💬 I'm open to collaboration, mentoring, and learning together!
-
----
 ###
 
 <h2 align="left">I code with</h2>
