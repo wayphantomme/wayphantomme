@@ -87,5 +87,22 @@ This GitHub documents my structured learning and practical experimentation in **
 
 ---
 
+## Case Study Interest: Netflix
+
+I have a strong interest in studying **Netflix as a real-world AI case study**, focusing on how machine learning models are used to **run core business operations** and deliver measurable impact.
+
+Netflix applies multiple AI and ML models to power its recommendation system, including personalized ranking, content similarity models, trending content detection, and continuation prediction.
+
+**Business impact by the numbers:**
+
+* Over **80% of content watched** on Netflix comes from AI-driven recommendations
+* Netflix estimates potential losses of up to **USD 1 billion per year** without its recommendation system
+* The platform has approximately **90 seconds** to capture user attention before churn risk increases
+* Effective personalization increases watch time, reduces content search effort, and lowers subscriber churn
+
+This case study demonstrates how AI, when tightly integrated with product and decision-making systems, becomes a **direct driver of engagement, retention, and revenue**.
+
+---
+
 *Focused on building practical, reliable, and scalable AI solutions.*
 
