@@ -65,17 +65,6 @@ Neural network–based models for complex and high-dimensional data.
 
 ---
 
-## What This GitHub Represents
-
-This GitHub documents my structured learning and practical experimentation in **AI and Machine Learning**, including:
-
-* Learning notebooks and experiments
-* Data preprocessing pipelines
-* Machine learning models
-* Applied AI projects for business contexts
-
----
-
 ## Tech Stack
 
 * Python
@@ -84,6 +73,14 @@ This GitHub documents my structured learning and practical experimentation in **
 * TensorFlow
 * PyTorch
 * Git
+
+---
+
+## Tools and Environment
+
+* Google Colab
+* Kaggle
+* VScode
 
 ---
 
