@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wayan Phantom Megaditha
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Front-End Developer exploring the path to AI Engineering
+💻 AI & Machine Learning
 
 ---
 ###
@@ -14,60 +14,78 @@
 
 ###
 
-## About Me
+## Profile
 
-I’m Wayan, a junior front-end developer passionate about crafting interactive and visually consistent web experiences. I enjoy working with React, Next.js, and Tailwind CSS to build responsive designs that feel smooth across devices. With a background in digital business and tech, I combine creativity and logic to deliver clean, maintainable code while continuously learning advanced patterns and design principles.
+I am a Digital Business student with a strong focus on **Artificial Intelligence and Machine Learning**, particularly in applying AI to solve real business and operational problems.
 
----
-
-## 🧠 My Focus Areas
-
-### 🎨 Front-End Development
-- HTML, CSS, JavaScript
-- React & Next.js
-- Responsive, accessible UI/UX
-
-### 🪙 Blockchain
-- Solidity & Smart Contracts
-- Web3.js / ethers.js
-- dApp development & NFT experiments
-
-### 🤖 AI & Machine Learning
-- Python for Data Science
-- Machine Learning & Deep Learning (TensorFlow, PyTorch)
-- Applied AI in Business & Web
+My interest lies in building **scalable, data-driven AI systems** that can be deployed in real-world environments, from automation and analytics to intelligent decision support.
 
 ---
 
-## 📌 What You’ll Find in This Repo
-- 💻 Front-end projects with reusable components (Navbar, Footer, Card, Button, Toggle Menu, Slideshow)  
-- 📊 Dashboard interfaces with API integration, routing, and responsive mobile layouts  
-- 🧠 Code experiments, UI logic, and performance improvements in progress  
-- 🎯 Continuous learning on design systems and modern web frameworks
+## Core Focus Areas
+
+* Artificial Intelligence fundamentals
+* Machine Learning & Deep Learning
+* Data preprocessing & feature engineering
+* End-to-end ML workflows (training → deployment → maintenance)
+* Applied AI for business use cases
 
 ---
-###
 
-<h2 align="left">I code with</h2>
+## Technical Understanding
 
-###
+**Artificial Intelligence**
+Systems that simulate human intelligence such as learning, reasoning, and decision-making.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-</div>
+**Machine Learning**
+Algorithms that learn patterns from data without explicit rule-based programming.
 
-###
+**Deep Learning**
+Neural network–based models for complex and high-dimensional data.
+
+---
+
+## AI Development Workflow
+
+1. Data collection & digitalization
+2. Data cleaning and transformation
+3. Model training and evaluation
+4. Deployment into production systems
+5. Monitoring, retraining, and optimization
+
+---
+
+## Areas of Application
+
+* Predictive analytics
+* Recommendation systems
+* Customer segmentation
+* Business process automation
+* Decision support systems
+
+---
+
+## What This GitHub Represents
+
+This GitHub documents my structured learning and practical experimentation in **AI and Machine Learning**, including:
+
+* Learning notebooks and experiments
+* Data preprocessing pipelines
+* Machine learning models
+* Applied AI projects for business contexts
+
+---
+
+## Tech Stack
+
+* Python
+* NumPy
+* Pandas
+* TensorFlow
+* PyTorch
+* Git
+
+---
+
+*Focused on building practical, reliable, and scalable AI solutions.*
+
