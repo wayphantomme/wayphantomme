@@ -41,6 +41,3 @@ My interest lies in understanding how AI systems are designed, evaluated, and ap
 
 ## Current Goal
 To gain research-oriented experience in machine learning and develop the skills needed to pursue advanced study or research-driven applied AI roles.
-
-## Contact
-- Email: phantombagus@gmail.com
