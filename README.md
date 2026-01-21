@@ -14,8 +14,6 @@
 
 ###
 
-# Hi, I'm an Undergraduate Student Exploring Machine Learning
-
 I am a Digital Business undergraduate student with coding experience, currently focused on developing a strong foundation in machine learning.  
 My interest lies in understanding how AI systems are designed, evaluated, and applied to solve real-world business problems.
 
