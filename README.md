@@ -14,50 +14,35 @@
 
 ###
 
-## Profile
+# Hi, I'm an Undergraduate Student Exploring Machine Learning
 
-Digital Business student with hands-on coding experience, currently focused on developing machine learning skills.  
-Interested in how data, algorithms, and automation can be applied to solve real business problems.  
-Actively exploring the intersection of business strategy, software development, and applied machine learning.
+I am a Digital Business undergraduate student with coding experience, currently focused on developing a strong foundation in machine learning.  
+My interest lies in understanding how AI systems are designed, evaluated, and applied to solve real-world business problems.
 
+## Current Focus
+- Learning core machine learning concepts and workflows
+- Exploring applied machine learning and NLP
+- Understanding the transition from AI application to AI engineering and research
 
-## Focus Areas
-- Machine learning modeling & evaluation
-- Deep learning (NLP, time series, computer vision)
-- Training pipelines & experiment tracking
-- Production inference systems
+## Background
+- Undergraduate student in Digital Business
+- Experience in data analysis, web-based systems, and applied AI use cases
+- Undergraduate thesis on the effectiveness of generative AI for improving digital marketing content quality in a real business context
 
-## Tech Stack
-**Languages**
-- Python, SQL
+## Technical Interests
+- Machine Learning fundamentals
+- Natural Language Processing
+- Data-driven decision making
+- Applied AI systems for business
 
-**ML / DL**
-- PyTorch, scikit-learn
+## Learning Philosophy
+- Build strong fundamentals before complex models
+- Understand limitations, not only capabilities, of AI systems
+- Focus on evaluation and real-world impact
+- Learn through structured experimentation and mentorship
 
-**Data**
-- Pandas, NumPy
-
-**MLOps**
-- Docker, MLflow
-
-**Deployment**
-- FastAPI, ONNX
-
-## Engineering Principles
-- Reproducible experiments over ad-hoc notebooks
-- Strong baselines before complex models
-- Metrics-driven decision making
-- Production constraints matter
-
-## Selected Projects
-- Demand Forecasting with LSTM
-- Transformer-based Text Classification
-- CV Inference API with ONNX
-
-## Current Interests
-- Efficient model training
-- RAG systems
-- Model optimization
+## Current Goal
+To gain research-oriented experience in machine learning and develop the skills needed to pursue advanced study or research-driven applied AI roles.
 
 ## Contact
 - Email: phantombagus@gmail.com
