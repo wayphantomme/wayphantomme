@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wayan Phantom Megaditha
+# Hi, I'm Wayan Phantom Megaditha
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
 💻 Artificial Intelligence & Machine Learning
