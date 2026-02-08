@@ -1,7 +1,7 @@
 # Hi, I'm Wayan Phantom Megaditha
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Artificial Intelligence & Machine Learning
+💻 Full Stack Developer | Web3 Developer | Artificial Intelligence & Machine Learning
 
 ---
 ###
