@@ -16,11 +16,11 @@
 # Skills and Environments
 
 UI/UX: Figma <br/>
-Front End: HTML, CSS, Javascript, Typescript <br/>
-Back End: Express <br/>
+Front End: HTML, CSS, Javascript, Typescript, Next.js <br/>
+Back End: Express.js <br/>
 Database: Supabase <br/>
 Artificial Intelligence: Machine Learning & Deep Learning <br/>
-Web3 & Blockchain: Rust (Solana) <br/>
+Web3 & Blockchain: Rust, Anchor (Solana) <br/>
 Cloud Hosting: Vercel <br/>
 
 ###
