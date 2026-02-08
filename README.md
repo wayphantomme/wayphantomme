@@ -14,7 +14,7 @@
 
 ###
 # Skills and Environments
----
+
 UI/UX: Figma <br/>
 Front End: HTML, CSS, Javascript, Typescript <br/>
 Back End: Express <br/>
