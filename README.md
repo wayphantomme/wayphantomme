@@ -13,31 +13,16 @@
 </picture>
 
 ###
+# Skills and Environments
+---
+UI/UX: Figma <br/>
+Front End: HTML, CSS, Javascript, Typescript <br/>
+Back End: Express <br/>
+Database: Supabase <br/>
+Artificial Intelligence: Machine Learning & Deep Learning <br/>
+Web3 & Blockchain: Rust (Solana) <br/>
+Cloud Hosting: Vercel <br/>
 
-I am a Digital Business undergraduate student with coding experience, currently focused on developing a strong foundation in machine learning.  
-My interest lies in understanding how AI systems are designed, evaluated, and applied to solve real-world business problems.
-
-## Current Focus
-- Learning core machine learning concepts and workflows
-- Exploring applied machine learning and NLP
-- Understanding the transition from AI application to AI engineering and research
-
-## Background
-- Undergraduate student in Digital Business
-- Experience in data analysis, web-based systems, and applied AI use cases
-- Undergraduate thesis on the effectiveness of generative AI for improving digital marketing content quality in a real business context
-
-## Technical Interests
-- Machine Learning fundamentals
-- Natural Language Processing
-- Data-driven decision making
-- Applied AI systems for business
-
-## Learning Philosophy
-- Build strong fundamentals before complex models
-- Understand limitations, not only capabilities, of AI systems
-- Focus on evaluation and real-world impact
-- Learn through structured experimentation and mentorship
-
-## Current Goal
-To gain research-oriented experience in machine learning and develop the skills needed to pursue advanced study or research-driven applied AI roles.
+###
+---
+Thanks for reading, Lets connect!
