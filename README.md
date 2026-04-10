@@ -30,7 +30,7 @@ Backend
 Web3
 
 * Solana, Anchor, Web3.js
-* EVM, Solidity, ethers.js
+* EVM, Solidity, ethers.js (future)
 
 Tools
 
