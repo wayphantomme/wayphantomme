@@ -6,13 +6,15 @@
 ---
 # Skills and Environments
 
-# Phantom
-
 Building Web3 products with focus on real-world use cases and production-ready systems.
 
 Designing product architecture from 0 to production, building fullstack applications, and shipping projects that work end-to-end.
 
-Currently exploring Web3 development across Solana and EVM ecosystems, and actively contributing through projects and community.
+Currently exploring Web3 development across Solana ecosystems, and actively contributing through projects and community.
+
+## Development Process
+
+Product Thinking (PRD) --> Planning & Architecture --> Development --> Deployment
 
 ## Tech Stack
 
@@ -42,11 +44,6 @@ Tools
 
 * Web3 applications with wallet integration and smart contract interaction
 * Fullstack apps connected to blockchain networks
-
-## Mindset
-
-From idea to architecture to deployment to real users.
-
 
 ###
 ---
