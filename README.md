@@ -8,8 +8,6 @@ Designing product architecture from 0 to production, building fullstack applicat
 Currently exploring Web3 development across Solana ecosystems, and actively contributing through projects and community.
 
 ---
-# Skills and Environments
-
 
 ## Development Process
 
