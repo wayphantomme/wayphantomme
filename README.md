@@ -17,27 +17,13 @@ Product Thinking (PRD) --> Planning & Architecture --> Development --> Deploymen
 
 ## Tech Stack
 
-Frontend
+Frontend: Next.js, React, Tailwind CSS
 
-* Next.js
-* React
-* Tailwind CSS
+Backend: Node.js, Express
 
-Backend
+Web3: Solana, Anchor, Web3.js + EVM, Solidity, ethers.js (future)
 
-* Node.js
-* Express
-
-Web3
-
-* Solana, Anchor, Web3.js
-* EVM, Solidity, ethers.js (future)
-
-Tools
-
-* Git and GitHub
-* Docker
-* Vercel
+Tools: Git and GitHub, Docker, Vercel
 
 ## Projects
 
