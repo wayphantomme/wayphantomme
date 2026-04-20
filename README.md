@@ -24,15 +24,3 @@ Backend: Node.js, Express
 Web3: Solana, Anchor, Web3.js + EVM, Solidity, ethers.js (future)
 
 Tools: Git and GitHub, Docker, Vercel
-
-## Projects
-
-* Web3 applications with wallet integration and smart contract interaction
-* Fullstack apps connected to blockchain networks
-
-###
----
-## Reach Me
-
-* X / Twitter: Wayan Phantom
-* LinkedIn: Wayan Phantom Megaditha
