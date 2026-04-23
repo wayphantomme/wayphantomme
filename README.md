@@ -11,7 +11,7 @@ Currently exploring Web3 development across Solana ecosystems, and actively cont
 
 ## Development Process
 
-Product Thinking (PRD) --> Planning & Architecture --> Development --> Deployment
+Product Thinking (PRD) --> Planning & Architecture --> Development --> Deployment --> Error Handling --> Update & Maintenance
 
 ## Tech Stack
 
