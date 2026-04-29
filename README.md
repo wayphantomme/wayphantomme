@@ -26,3 +26,7 @@ Product Thinking (PRD) --> Planning & Architecture --> Development --> Deploymen
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
