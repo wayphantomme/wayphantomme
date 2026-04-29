@@ -1,7 +1,7 @@
 # Hi, I'm Wayan Phantom
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Full Stack Developer | Web3 Developer | AI Builders
+💻 Full Stack Developer | Web3 Solana Developer | AI Automation Developer
 
 ---
 
