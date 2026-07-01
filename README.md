@@ -36,6 +36,7 @@ Product Thinking (PRD) --> Planning & Architecture --> Development --> Deploymen
 ![Anchor](https://img.shields.io/badge/Anchor-black?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
 ![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google-gemini)
 ![Lovable](https://img.shields.io/badge/Lovable-black?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
