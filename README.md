@@ -32,3 +32,8 @@ Product Thinking (PRD) --> Planning & Architecture --> Development --> Deploymen
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
 ![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+![Spreadsheet](https://img.shields.io/badge/Spreadsheet-black?style=for-the-badge&logo=google-sheets)
+![Airtable](https://img.shields.io/badge/Airtable-black?style=for-the-badge&logo=airtable)
