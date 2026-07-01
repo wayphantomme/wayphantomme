@@ -9,6 +9,8 @@
 
 Product Thinking (PRD) --> Planning & Architecture --> Development --> Deployment --> Error Handling --> Maintenance
 
+---
+
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
