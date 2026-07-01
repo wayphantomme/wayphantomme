@@ -7,7 +7,7 @@
 
 ## Development Process
 
-Product Thinking (PRD) --> Planning & Architecture --> Development --> Deployment --> Error Handling --> Maintenance
+Product Thinking (PRD) → Planning & Architecture → Development → Deployment → Error Handling → Maintenance
 
 ---
 
