@@ -47,14 +47,3 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress)
 ![Shopify](https://img.shields.io/badge/Shopify-black?style=for-the-badge&logo=shopify)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp)
-
----
-
-## Automation & LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/wayphantomme)
-[![LeetCode Cron](https://github.com/wayphantomme/wayphantomme/actions/workflows/leetcode-cron.yml/badge.svg)](https://github.com/wayphantomme/wayphantomme/actions/workflows/leetcode-cron.yml)
-
-- Badge GitHub Actions di atas mengarah ke workflow `leetcode-cron.yml` yang bisa dijalankan dengan jadwal cron untuk mengeksekusi skrip/tes LeetCode secara otomatis.
-- Jika kamu mau, saya bisa juga membuat workflownya (contoh: menjalankan `npm run leetcode`), beri tahu jadwal cron (mis. `0 0 * * *` untuk setiap hari tengah malam) dan perintah yang ingin dijalankan.
-
