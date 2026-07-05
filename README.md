@@ -1,3 +1,5 @@
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/wayphantomme/)
+
 # Hi, I'm Wayan Phantom
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
