@@ -1,5 +1,3 @@
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/wayphantomme/)
-
 # Hi, I'm Wayan Phantom
 
 🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
@@ -14,6 +12,8 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ---
 
 ## Tech Stack
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/wayphantomme/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
