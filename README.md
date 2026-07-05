@@ -19,7 +19,7 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Neon](https://img.shields.io/badge/Neon-black?style=for-the-badge&logo=neon)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
