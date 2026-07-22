@@ -1,10 +1,5 @@
 # Hi, I'm Wayan Phantom
 
-🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Full Stack Developer | Web3 Developer | AI Automation Developer
-
----
-
 ## Development Process
 
 Product Thinking (PRD) → Planning & Architecture → Development → Deployment → Error Handling → Maintenance
