@@ -1,4 +1,4 @@
-# Hi, I'm Wayan Phantom
+# Hey there, I'm Wayan Phantom
 
 ## Development Process
 
