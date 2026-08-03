@@ -28,13 +28,6 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ![Stripe](https://img.shields.io/badge/Stripe-black?style=for-the-badge&logo=stripe)
 ![Xendit](https://img.shields.io/badge/Xendit-black?style=for-the-badge&logo=xendit)
 
-### Web3 Stack
-
-![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana)
-
 ### AI Stack
 
 ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
@@ -50,3 +43,10 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress)
 ![Shopify](https://img.shields.io/badge/Shopify-black?style=for-the-badge&logo=shopify)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp)
+
+### Web3 Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana)
