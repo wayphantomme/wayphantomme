@@ -1,5 +1,3 @@
-# Hey there, I'm Wayan Phantom
-
 ## Development Process
 
 Product Thinking (PRD) → Planning & Architecture → Development → Deployment → Error Handling → Maintenance
