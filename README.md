@@ -1,6 +1,6 @@
 ## Business Development Process
 
-Problem → Process → Development → Result → Improved Result (⬆30% yoy)
+Problem → Process → Development → Result → Improved Result (⇧30% yoy)
 
 ---
 
