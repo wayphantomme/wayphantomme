@@ -27,25 +27,9 @@ Product Thinking (PRD) → Planning & Architecture → Development → Deploymen
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-black?style=for-the-badge&logo=google-cloud)
 ![Stripe](https://img.shields.io/badge/Stripe-black?style=for-the-badge&logo=stripe)
 ![Xendit](https://img.shields.io/badge/Xendit-black?style=for-the-badge&logo=xendit)
-
-### AI Stack
-
 ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
 ![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic)
 ![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google-gemini)
-![Lovable](https://img.shields.io/badge/Lovable-black?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
-![Spreadsheet](https://img.shields.io/badge/Spreadsheet-black?style=for-the-badge&logo=google-sheets)
-![Airtable](https://img.shields.io/badge/Airtable-black?style=for-the-badge&logo=airtable)
-![Google Calendar](https://img.shields.io/badge/Google%20Calendar-black?style=for-the-badge&logo=google-calendar)
-![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress)
-![Shopify](https://img.shields.io/badge/Shopify-black?style=for-the-badge&logo=shopify)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp)
-
-### Web3 Stack
-
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
