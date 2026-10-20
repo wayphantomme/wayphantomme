@@ -1,6 +1,6 @@
-## Development Process
+## Business Development Process
 
-Product Thinking (PRD) → Planning & Architecture → Development → Deployment → Error Handling → Maintenance
+Problem → Process → Development → Result → Improved Result
 
 ---
 
