@@ -1,4 +1,4 @@
-## Business Development Process
+## Software & AI Development Process for Business
 
 Problem → Process → Development → Result → Improved Result (⇧30% yoy)
 
